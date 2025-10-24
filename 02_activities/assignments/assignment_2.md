@@ -9,16 +9,16 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+
+      Bad Data Visualization:
+      https://public.tableau.com/app/profile/.83057946/viz/ShiningStars-MoviesData/ShiningStarsDashboard
+      
+
+      Good Data Visualization:
 
 
 
-
-
-
-
-      ```
+      
     - How could this data visualization have been improved?  
       ```
       Your answer...
