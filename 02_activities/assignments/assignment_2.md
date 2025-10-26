@@ -9,17 +9,15 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-<<<<<<< HEAD
-      ```
-      Your answer...
-=======
+
+References: 
+1. Ciara's 01_course_intro slide
+2. Ciara's 04_choosing_the_right_visualization
 
 #### Bad Data Visualization:
 https://public.tableau.com/app/profile/.83057946/viz/ShiningStars-MoviesData/ShiningStarsDashboard
 
 **3 Reasons Why It's a Bad Visualization:**      
-Reference: Ciara's 01_course_intro slide, 04_choosing_the_right_visualization
->>>>>>> d5b8011 (committing 01_course_intro and assignment_2)
 
 1. Aesthetic (Is the visualization pleasing to look at?)
     * this visualization is pleasing to look at, but difficult and convoluted to accurately decipher
@@ -51,19 +49,8 @@ Reference: Ciara's 01_course_intro slide, 04_choosing_the_right_visualization
 #### Good Data Visualization:
 https://datavizproject.com/data-type/bar-chart-horizontal/
 
-<<<<<<< HEAD
-
-
-
-
-      ```
-    - How could this data visualization have been improved?  
-      ```
-      Your answer...
-=======
 **3 Reasons Why It's a Good Visualization:**     
 Reference: Ciara's 01_course_intro slide
->>>>>>> d5b8011 (committing 01_course_intro and assignment_2)
 
 1. Aesthetic (Is the visualization pleasing to look at?)
     * visually pleasing visualization: 
@@ -81,7 +68,8 @@ Reference: Ciara's 01_course_intro slide
         - accurate interpretation of absolute values
         - used familiar chart type
 4. How could this data visualization have been improved?  
-    * add a legend and/or axis labels
+    * add a legend 
+    * add axis labels
 
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
